@@ -1,9 +1,5 @@
----
-layout: post
-title:  "What is .gitignore"
----
 
-
+# What is .gitignore
 
 ## 1. Purpose of .gitignore
 
